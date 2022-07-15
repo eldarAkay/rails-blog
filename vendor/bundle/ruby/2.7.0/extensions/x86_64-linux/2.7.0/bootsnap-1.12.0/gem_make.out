@@ -1,0 +1,15 @@
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+/home/eldar/.rbenv/versions/2.7.3/bin/ruby -I /home/eldar/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20220715-10215-18wg0kg.rb extconf.rb
+creating Makefile
+
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20220715-10215-u1yuvx/bootsnap

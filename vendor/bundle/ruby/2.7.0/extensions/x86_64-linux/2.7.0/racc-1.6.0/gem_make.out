@@ -1,0 +1,17 @@
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+/home/eldar/.rbenv/versions/2.7.3/bin/ruby -I /home/eldar/.rbenv/versions/2.7.3/lib/ruby/2.7.0 -r ./siteconf20220715-10215-t1fufk.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/eldar/github_repo/rails-blog/vendor/bundle/ruby/2.7.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20220715-10215-h03f7c/racc
